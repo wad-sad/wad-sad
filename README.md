@@ -22,13 +22,13 @@ Welcome to my Github page! I am wad-sad , this is a simple README.md
 - 🚀 *coming soon*
 - ……
 
-<div align="center" >
-![](https://raw.githubusercontent.com/wad-sad/wad-sad/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/wad-sad/wad-sad/main/assets/github-contribution-grid-snake.svg)
+
+
+<div align="center" >           
   <img  src="https://novatorem.sachinchaturvedi93.vercel.app/api/spotify"/>
   <a href="https://open.spotify.com/user/flipcase93">
 </div>
- 
-![](https://raw.githubusercontent.com/wad-sad/wad-sad/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center" >
 <img src= "https://profile-counter.glitch.me/all-smile/count.svg" />
