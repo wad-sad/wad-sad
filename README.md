@@ -22,6 +22,7 @@ Welcome to my Github page! I am wad-sad , this is a simple README.md
 - 🚀 *coming soon*
 - ……
 
+<img src="https://github.com/wad-sad/wad-sad/blob/output/github-contribution-grid-snake.svg"/>
 
 <div align="center" >           
   <img  src="https://novatorem.sachinchaturvedi93.vercel.app/api/spotify"/>
