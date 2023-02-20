@@ -22,7 +22,7 @@ Welcome to my Github page! I am wad-sad , this is a simple README.md
 - 🚀 *coming soon*
 - ……
 
-
+<hr/>
 
 <div align="center" >   
   <img src="https://github.com/wad-sad/wad-sad/blob/output/github-contribution-grid-snake.svg"/>
@@ -34,4 +34,4 @@ Welcome to my Github page! I am wad-sad , this is a simple README.md
 <div align="center" >
 <img src= "https://profile-counter.glitch.me/all-smile/count.svg" />
 </div>
-<hr/>
+
