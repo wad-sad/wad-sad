@@ -21,7 +21,8 @@ Welcome to my Github page! I am wad-sad , this is a simple README.md
 - Exercising 3 days a week
 - 🚀 *coming soon*
 - ……
-
+- ……
+  
 <hr/>
 
 <div align="center" >   
