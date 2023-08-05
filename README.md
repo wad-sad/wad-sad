@@ -1,3 +1,6 @@
+[Hello, world!](https://llqqnt.vercel.app/){target="_blank"}
+
+
 <p align="center"> 
   <img width="140" src="https://raw.githubusercontent.com/wad-sad/wad-sad/main/img/wallhaven-p99vke-cropped.png"/>
   <h2 align="center">wad-sad</h2>
