@@ -1,5 +1,3 @@
-[Google](https://google.com" target="_blank)
-
 
 <p align="center"> 
   <img width="140" src="https://raw.githubusercontent.com/wad-sad/wad-sad/main/img/wallhaven-p99vke-cropped.png"/>
